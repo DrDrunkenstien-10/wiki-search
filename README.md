@@ -15,6 +15,6 @@ This project was built as a learning exercise to understand how search engines w
 ## 🎯 Motivation
 
 I was inspired to build this project after watching this excellent YouTube video:  
-👉 **Inverted Index - The Data Structure Behind Search Engines**
+👉 [**Inverted Index - The Data Structure Behind Search Engines**](https://www.youtube.com/watch?v=iHHqnyThrqE)
 
 After watching it, I wanted to go beyond theory and implement my own mini search engine using the inverted index concept. This hands-on implementation helped me solidify my understanding of indexing, tokenization, and search.
